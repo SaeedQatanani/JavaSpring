@@ -1,0 +1,15 @@
+@charset "UTF-8";
+main {
+	width: 90%;
+	margin: 1%;
+	padding: 1%;
+	display: flex;
+	min-height: 200px;
+	justify-content: space-between;
+	align-items: center;
+}
+h1 {
+	flex: 1;
+	width: 90%;
+	text-align: center;
+}

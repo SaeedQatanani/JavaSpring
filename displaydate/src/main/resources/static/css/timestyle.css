@@ -1,0 +1,10 @@
+@charset "UTF-8";
+h1 {
+	width:90%;
+	min-height: 200px;
+	vertical-align: middle;
+	margin: 2%;
+	padding: 2%;
+	color: green;
+	text-align: center;
+}
