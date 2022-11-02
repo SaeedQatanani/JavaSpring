@@ -1,0 +1,38 @@
+@charset "UTF-8";
+* {
+    margin: 0;
+    padding: 0;
+    border: 0;
+    outline: 0;
+    font-family: sans-serif;
+}
+main {
+    margin: 2%;
+    padding: 2%;
+}
+h2 {
+    margin: 0 0 5%;
+    text-align: center;
+}
+#button {
+    box-shadow: 5px 5px 5px #999;
+    margin-left: 45%;
+}
+.row, p {
+	margin: 1%;
+}
+section {
+	background-color: hsl(214deg 86% 80%);
+	color: black;
+	width: 50%;
+	height: 200px;
+	margin-left: 10%;
+	padding: 10%;
+	text-align: center;
+}
+#back {
+	text-align: center;
+}
+#container {
+	text-align: center;
+}
